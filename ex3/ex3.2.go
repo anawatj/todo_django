@@ -10,7 +10,6 @@ func main() {
 
 	n, err := strconv.Atoi(arg)
 	if err == nil {
-		//fmt.Println(n)
 		for i:=1;i<=n;i++{
 			for j:=i; j<n; j++{
 				fmt.Print(" ");
