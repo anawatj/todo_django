@@ -2,3 +2,4 @@
 # fizzbuzz use python
 # leap year use python
 # prime number use scala
+# ex 3 use golang
